@@ -227,11 +227,11 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul { left: 175px; top:
    ================== */
 
 /* shared hosting - features */
-.sharedfeatures-odd {padding:50px 0; overflow:hidden; background:#F8F8F8;}
+.sharedfeatures-odd {padding:40px 0; overflow:hidden; background:#fff;}
 .sharedfeatures-odd h2, .sharedfeatures-even h2  {font-weight:900;margin-bottom: 12px; font-size:23px;}
 .sharedfeatures-odd i {color:#6dbd63; font-size:100px;}
 .sharedfeatures-odd .circle {border-radius: 50%; overflow:hidden; width: 200px;	height: 200px; background:#37485c; padding-top:50px; margin:0 auto; position:relative; z-index:99999; text-align: center; }
-.sharedfeatures-even {padding:50px 0; overflow:hidden; background:#fff;}
+.sharedfeatures-even {padding:40px 0; overflow:hidden; background:#F8F8F8;}
 .sharedfeatures-even i {color:#6dbd63; font-size:100px; }
 .sharedfeatures-even .circle {border-radius: 50%; overflow:hidden; width: 200px;	height: 200px; background:#37485c; padding-top:50px; margin:0 auto; position:relative; z-index:99999; text-align: center; }
 
