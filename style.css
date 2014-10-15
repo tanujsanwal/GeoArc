@@ -31,7 +31,7 @@ h5 { font-size: 17px; }
 h6 { font-size: 14px; }
 a { color: #b86662; text-decoration: none; line-height: inherit; }
 a:hover { color: #37485C; text-decoration: underline;}
-p { font-family: inherit; font-weight: normal; line-height: 1.45; margin-bottom: 17px; font-size: 17px;}
+p { font-family: inherit; font-weight: normal; line-height: 1.6em; margin-bottom: 17px; font-size: 17px;}
 hr { border: solid #eff0f4; border-width: 1px 0 0; clear: both; margin: 21px 0; height: 0; }
 hr.small { border: double #37485c; border-width: 4px 0 0; clear: both;margin:0 auto; margin-top:30px; margin-bottom:20px; height: 0; max-width:150px; }
 .spacing-30 {padding-bottom:30px;}
@@ -232,8 +232,8 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul { left: 175px; top:
 .sharedfeatures-odd i {color:#6dbd63; font-size:100px;}
 .sharedfeatures-odd .circle {border-radius: 50%; overflow:hidden; width: 200px;	height: 200px; background:#37485c; padding-top:50px; margin:0 auto; position:relative; z-index:99999; text-align: center; }
 .sharedfeatures-even {padding:50px 0; overflow:hidden; background:#fff;}
-.sharedfeatures-even i {color:#DBDBDB; font-size:100px; }
-.sharedfeatures-even .circle {border-radius: 50%; overflow:hidden; width: 200px;	height: 200px; background:#B86662; padding-top:50px; margin:0 auto; position:relative; z-index:99999; text-align: center; }
+.sharedfeatures-even i {color:#6dbd63; font-size:100px; }
+.sharedfeatures-even .circle {border-radius: 50%; overflow:hidden; width: 200px;	height: 200px; background:#37485c; padding-top:50px; margin:0 auto; position:relative; z-index:99999; text-align: center; }
 
 /* cloud vps - order steps */
 .vps-order-steps {padding:0; overflow: hidden; margin: 0 10px;}
@@ -303,7 +303,7 @@ ul.domainfeatures li .circle {border-radius: 50%; overflow:hidden; width: 110px;
 /* Support ------------------------ */
 .support-subheader {padding:50px 0; overflow:hidden;}
 .support-subheader h2 {text-align: center; font-weight: 900}
-.support-subheader p {text-align: center;}
+.support-subheader p {text-align: justify;}
 
 .supportchannels {padding:0;}
 .supportchannels h3 {font-size:21px; text-align: left}
