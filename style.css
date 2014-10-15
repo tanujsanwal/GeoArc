@@ -80,7 +80,7 @@ header .message .button:hover {background:#65464c; border-color:#65464c; text-de
 header h2 {padding:45px 0 25px; font-size:42px; color:#fff; text-align: center; font-weight: 100}
 #js-rotating {display: none}
 
-header.alt-1 {background:url(images/header_alt-1_bg.jpg) bottom center no-repeat; min-height:490px; position: relative}
+header.alt-1 {background:url(images/about_header.jpg) bottom center no-repeat; min-height:490px; position: relative}
 header.alt-2 {background:url(images/header_alt-2_bg.jpg) bottom center no-repeat; min-height:490px; position: relative}
 header.alt-3 {background:url(images/header_alt-3_bg.jpg) bottom center no-repeat; min-height:490px; position: relative}
 header.alt-4 {background:url(images/header_alt-4_bg.jpg) bottom center no-repeat; min-height:580px; position: relative}
@@ -229,7 +229,7 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul { left: 175px; top:
 /* shared hosting - features */
 .sharedfeatures-odd {padding:50px 0; overflow:hidden; background:#F8F8F8;}
 .sharedfeatures-odd h2, .sharedfeatures-even h2  {font-weight:900;margin-bottom: 12px; font-size:23px;}
-.sharedfeatures-odd i {color:#B86662; font-size:100px;}
+.sharedfeatures-odd i {color:#6dbd63; font-size:100px;}
 .sharedfeatures-odd .circle {border-radius: 50%; overflow:hidden; width: 200px;	height: 200px; background:#37485c; padding-top:50px; margin:0 auto; position:relative; z-index:99999; text-align: center; }
 .sharedfeatures-even {padding:50px 0; overflow:hidden; background:#fff;}
 .sharedfeatures-even i {color:#DBDBDB; font-size:100px; }
