@@ -308,7 +308,7 @@ ul.domainfeatures li .circle {border-radius: 50%; overflow:hidden; width: 110px;
 .supportchannels {padding:0;}
 .supportchannels h3 {font-size:21px; text-align: left}
 .supportchannels p {text-align: left}
-.timeline-content {padding:65px 0;}
+.timeline-content {padding:50px 0;}
 .timeline-content .email.button {background:transparent; border:1px solid #DE6724; color:#DE6724; font-weight:700;}
 .timeline-content .email.button:hover {background:#DE6724; color:#fff; text-decoration: none}
 .timeline-content .chat.button {background:transparent; border:1px solid #589DA8; color:#589DA8; font-weight:700;}
