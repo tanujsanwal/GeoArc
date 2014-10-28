@@ -81,7 +81,7 @@ header h2 {padding:45px 0 25px; font-size:42px; color:#fff; text-align: center; 
 #js-rotating {display: none}
 
 header.alt-1 {background:url(images/about.jpg) bottom center no-repeat; min-height:490px; position: relative}
-header.alt-2 {background:url(images/header_alt-2_bg.jpg) bottom center no-repeat; min-height:490px; position: relative}
+header.alt-2 {background:url(images/service_header.jpg) bottom center no-repeat; min-height:490px; position: relative}
 header.alt-3 {background:url(images/about_head.jpg) bottom center no-repeat; min-height:490px; position: relative}
 header.alt-4 {background:url(images/header_alt-4_bg.jpg) bottom center no-repeat; min-height:580px; position: relative}
 header.alt-5 {background:url(images/header_alt-5_bg.jpg) bottom center no-repeat; min-height:490px; position: relative}
@@ -200,7 +200,7 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul { left: 175px; top:
 
 
 /* Testimonials */
-.testimonials {padding:50px 0; background:#222D3A; margin-top:45px;}
+.testimonials {padding:50px 0; background:#F5E8DF; margin-top:45px;}
 .testimonials h2 {font-weight:900;text-align: center; margin: 28px 0 12px; color:#fff; font-size:44px;}
 .testimonials h2 span {color:#B86662;  }
 .testimonials i {color:#B86662; font-size:56px;}
